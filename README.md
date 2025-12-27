@@ -39,7 +39,7 @@ This project predicts house prices based on user-selected property details such 
 ![App Screenshot](https://github.com/PanchalArti/house_price_predection/blob/main/snaoshot3.png)
 
 
-🧮 How It Works
+
 
 🧮 How It Works
 
