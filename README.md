@@ -34,5 +34,21 @@ This project predicts house prices based on user-selected property details such 
 
 🖼️ Screenshots
 
-![App Screenshot](https://github.com/PanchalArti/Movie_reccomadation_system/blob/main/Snapshot.png)
+![App Screenshot](https://github.com/PanchalArti/house_price_predection/blob/main/snapshot1.png)
+
+![App Screenshot](https://github.com/PanchalArti/house_price_predection/blob/main/snaoshot3.png)
+
+
+🧮 How It Works
+
+🧮 How It Works
+
+Users enter Location 📍, Area 📐, BHK 🛏, and Bathrooms 🚿.
+
+Inputs are converted into a feature vector for the model.
+
+The ML model predicts the house price.
+
+Predicted price is displayed in lakhs on a Streamlit UI.
+
 
